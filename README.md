@@ -1,4 +1,4 @@
-# IOT-project-remote-car
+# WiFi Controlled Robot Car
 
 This repository contains the code for my project from the course "Applied IOT - 1DT305".
 The project is a robot car controlled remotely through WiFi.
